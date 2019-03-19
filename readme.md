@@ -1,6 +1,4 @@
-<p align="center"><img src="https://marketplace-kit.s3.amazonaws.com/logo.png"></p>
 
-## About MarketplaceKit
 
 MarketplaceKit is a platform for building different types of online marketplaces. MarketplaceKit attempts to reduce the development effort required to build product, rental, service and listing marketplaces such as Etsy, AirBnB, Handy and Zillow. It does this by attempting to cover the main components a marketplace needs, including the following:
 
@@ -10,9 +8,6 @@ MarketplaceKit is a platform for building different types of online marketplaces
 - User profiles
 - Direct messaging between users
 - Multilingual functionality
-
-<table><tr><td><p align="center"><img src="https://marketplace-kit.s3.amazonaws.com/preview.png"></p>
-</td></tr></table>
 
 
 MarketplaceKit uses popular, well documented packages without too much overhead to simplify a developers/designers life. Therefore, the following choices were made:
